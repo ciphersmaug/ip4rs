@@ -1,3 +1,6 @@
 *.npz
 /env*
 /env
+.secrets.toml
+/data*
+/cache*
